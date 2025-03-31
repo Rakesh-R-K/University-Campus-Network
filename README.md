@@ -37,11 +37,11 @@ Each VLAN is connected through **layer 3 switches and routers** to ensure contro
 ## 🛠️ How to Use
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/university-campus-network.git
+   git clone https://github.com/Rakesh-R-K/University-Campus-Network.git
    cd university-campus-network
    ```
 2. **Open the .pkt file in Cisco Packet Tracer**.
-3. **Test DHCP**: Check if devices receive IPs dynamically. ( ** Check in the ipconfiguration , if it is assigned to static or DHCP , if not DHCP , then change it to DHCP ** )
+3. **Test DHCP**: Check if devices receive IPs dynamically. ( **Check in the ipconfiguration , if it is assigned to static or DHCP , if not DHCP , then change it to DHCP** )
 4. **Test DNS**: Ping domain names from PCs.
 5. **Access Web Server**: Open a browser and visit the internal university website.
 6. **Send Emails**: Use SMTP-configured nodes for testing.
